@@ -1,0 +1,301 @@
+Identifiant Avis,Note Globale,Nombre de Mots,Mots-Clés Positifs,Mots-Clés Négatifs,Type de Séjour,Durée Séjour (nuits),Mode de Réservation,Nationalité,Fréquence Séjours
+a484d474,3.4,59,Oui,Non,Solo,3,Agence,Espagnol,6
+0d418bb9,3.1,53,Oui,Non,Solo,5,Agence,Espagnol,11
+1f383c54,2.6,44,Oui,Oui,Événement,3,Agence,Espagnol,12
+f8a8f855,3.5,96,Oui,Non,Tourisme,13,En ligne,Espagnol,13
+5bf64943,3.3,18,Oui,Oui,Affaires,3,En ligne,Français,5
+8900623d,3.2,39,Oui,Oui,Affaires,2,Agence,Américain,0
+44e07819,3.3,90,Oui,Oui,Événement,3,Agence,Américain,2
+508ef757,4.1,170,Oui,Non,Tourisme,7,En ligne,Français,8
+6e085e6d,3.2,48,Oui,Oui,Solo,2,En ligne,Allemand,7
+3a5063e3,4.0,76,Oui,Non,Solo,2,En ligne,Allemand,7
+91639335,4.5,146,Oui,Non,Solo,9,En ligne,Chinois,2
+5105dbe8,3.4,23,Oui,Non,Affaires,1,En ligne,Espagnol,13
+0cd76f30,3.8,63,Oui,Oui,Famille,10,Agence,Américain,3
+60202653,4.1,129,Oui,Non,Tourisme,6,Agence,Chinois,3
+3277aa75,2.4,17,Oui,Oui,Affaires,2,Agence,Italien,6
+02cbd9f8,2.2,52,Non,Oui,Affaires,4,En ligne,Chinois,2
+211ec048,4.1,117,Oui,Non,Famille,3,Agence,Français,4
+ead5178c,2.6,67,Oui,Oui,Affaires,4,Agence,Italien,15
+a6d4ecad,3.7,115,Oui,Oui,Tourisme,14,Agence,Chinois,1
+a1249948,3.4,69,Oui,Oui,Événement,9,En ligne,Chinois,2
+124c9ea5,4.9,93,Oui,Non,Tourisme,3,Agence,Allemand,6
+b52bd6f1,3.5,112,Oui,Oui,Événement,1,En ligne,Américain,3
+cc94a1b2,3.3,105,Oui,Oui,Famille,1,En ligne,Américain,1
+8d8e22ae,4.3,200,Oui,Non,Tourisme,5,En ligne,Allemand,6
+6a01bc59,2.9,72,Oui,Oui,Affaires,1,En ligne,Français,4
+f0f94ec1,3.7,59,Oui,Non,Solo,6,Agence,Espagnol,8
+e80ca428,3.9,170,Oui,Non,Tourisme,5,En ligne,Allemand,5
+628499ce,2.5,145,Non,Oui,Événement,4,Agence,Français,8
+41a5de8b,3.2,115,Oui,Oui,Événement,10,Agence,Chinois,3
+3c1fb267,2.5,124,Non,Oui,Événement,6,Agence,Chinois,1
+ecd880ad,2.7,55,Oui,Oui,Affaires,5,Agence,Français,3
+2f7acd02,4.5,64,Oui,Non,Famille,4,En ligne,Chinois,0
+8c4308a9,2.1,62,Oui,Oui,Affaires,4,Agence,Italien,13
+f579b3b6,4.1,131,Oui,Non,Famille,1,En ligne,Italien,8
+a4b91cdb,3.0,149,Oui,Oui,Famille,1,En ligne,Allemand,2
+a59065eb,2.6,43,Oui,Oui,Affaires,1,Agence,Français,8
+0a68a3f5,2.7,40,Oui,Oui,Solo,6,En ligne,Allemand,4
+ab184a7c,4.5,74,Oui,Non,Tourisme,6,Agence,Français,2
+24217fe3,3.7,30,Oui,Non,Événement,9,En ligne,Italien,14
+12359035,5.0,99,Oui,Non,Tourisme,7,En ligne,Français,3
+8b3931f0,2.9,38,Oui,Oui,Événement,8,Agence,Italien,6
+0e63f7f2,3.3,41,Oui,Non,Affaires,3,En ligne,Espagnol,13
+ec82850b,3.5,68,Oui,Oui,Affaires,5,Agence,Français,2
+4b3b366d,2.8,67,Oui,Oui,Affaires,1,Agence,Italien,15
+236be833,3.9,133,Oui,Oui,Tourisme,5,Agence,Américain,2
+fd412996,2.5,80,Non,Oui,Événement,1,Agence,Américain,0
+c38c5071,3.8,48,Oui,Non,Affaires,1,Agence,Espagnol,11
+655b3d6d,3.3,61,Oui,Oui,Affaires,4,Agence,Chinois,1
+987e7764,4.3,161,Oui,Non,Tourisme,12,Agence,Américain,1
+57e9ea4e,4.9,117,Oui,Non,Tourisme,11,Agence,Espagnol,5
+871caa10,3.9,68,Oui,Non,Affaires,3,Agence,Espagnol,12
+c4fd4d5a,3.3,73,Oui,Oui,Famille,7,Agence,Français,8
+279db3c2,3.8,59,Oui,Non,Tourisme,11,Agence,Allemand,3
+989983f9,3.3,132,Oui,Oui,Famille,6,En ligne,Allemand,5
+4db0074a,2.7,28,Oui,Oui,Affaires,5,En ligne,Espagnol,8
+221e6540,3.1,69,Oui,Oui,Événement,9,Agence,Français,8
+92db3094,4.3,31,Oui,Non,Famille,3,En ligne,Espagnol,5
+117d4066,3.9,128,Oui,Non,Solo,2,Agence,Espagnol,6
+4ac1d2d0,3.2,92,Oui,Non,Famille,1,Agence,Espagnol,5
+e5011094,3.2,143,Oui,Oui,Solo,6,Agence,Allemand,7
+7a4a98cc,3.9,10,Oui,Oui,Affaires,1,Agence,Américain,0
+1a48f7db,4.0,115,Oui,Non,Tourisme,10,En ligne,Italien,15
+d716694a,3.9,36,Oui,Non,Événement,10,Agence,Français,5
+9bcbb22f,3.0,29,Oui,Oui,Événement,7,En ligne,Espagnol,13
+518e636b,4.0,34,Oui,Non,Affaires,1,En ligne,Italien,10
+8b6a0278,3.2,145,Oui,Non,Événement,10,Agence,Espagnol,10
+db8d933c,2.6,66,Non,Oui,Famille,8,En ligne,Chinois,1
+d2324e2f,3.3,72,Oui,Oui,Affaires,2,En ligne,Français,2
+d8bfbee8,2.9,46,Oui,Oui,Famille,10,En ligne,Espagnol,5
+791a6614,3.9,104,Oui,Non,Solo,4,Agence,Allemand,4
+13f3bbb8,4.4,40,Oui,Non,Solo,3,En ligne,Espagnol,15
+ee83547c,3.2,60,Oui,Non,Famille,2,En ligne,Espagnol,10
+4deb5f2b,2.8,45,Oui,Oui,Solo,5,Agence,Français,4
+eb12d3ac,2.6,56,Oui,Oui,Affaires,1,Agence,Allemand,7
+6962ec79,2.9,64,Oui,Oui,Affaires,5,En ligne,Français,8
+719690a9,2.6,22,Non,Oui,Famille,5,Agence,Chinois,2
+6a90155c,3.7,80,Oui,Oui,Affaires,2,En ligne,Américain,1
+c86bac5f,2.6,88,Oui,Oui,Famille,10,En ligne,Français,3
+b22bc280,2.2,75,Non,Oui,Affaires,4,Agence,Chinois,0
+146451b0,4.2,133,Oui,Non,Événement,8,En ligne,Espagnol,6
+36580641,4.3,83,Oui,Non,Solo,4,En ligne,Français,3
+6fdb7e90,2.8,58,Non,Oui,Famille,6,Agence,Chinois,2
+54850d97,4.0,136,Oui,Oui,Tourisme,6,Agence,Américain,3
+83918a13,4.4,82,Oui,Non,Événement,8,En ligne,Chinois,1
+d037b7dc,2.7,48,Oui,Oui,Famille,5,En ligne,Italien,10
+08f0903e,2.8,68,Oui,Oui,Événement,10,En ligne,Allemand,5
+c2911e07,3.6,137,Oui,Non,Solo,2,En ligne,Français,4
+12eaffdd,3.2,21,Oui,Non,Affaires,2,En ligne,Italien,11
+37031162,2.8,28,Non,Oui,Solo,3,En ligne,Américain,1
+56fb054a,2.6,77,Oui,Oui,Famille,2,En ligne,Français,8
+bfead791,4.0,29,Oui,Non,Affaires,5,En ligne,Italien,12
+97a1131c,3.8,129,Oui,Oui,Famille,7,En ligne,Américain,3
+caa50629,3.0,29,Oui,Oui,Famille,9,En ligne,Français,2
+3c9d5014,4.3,39,Oui,Non,Solo,5,Agence,Français,7
+b14e7b8b,3.8,39,Oui,Non,Famille,1,Agence,Italien,8
+fb30e0ca,2.6,118,Oui,Oui,Famille,4,En ligne,Espagnol,10
+5049699a,2.8,33,Oui,Oui,Solo,6,En ligne,Espagnol,14
+178fba62,4.8,171,Oui,Non,Tourisme,14,En ligne,Américain,2
+982d379c,2.9,62,Oui,Oui,Solo,1,Agence,Allemand,2
+1173439e,3.3,68,Oui,Non,Événement,10,En ligne,Espagnol,11
+47a5a359,4.1,124,Oui,Non,Solo,7,Agence,Français,4
+7ef31e53,5.0,93,Oui,Non,Tourisme,15,Agence,Espagnol,12
+11cda4cd,3.5,95,Oui,Oui,Solo,7,En ligne,Français,8
+38df5feb,2.7,95,Oui,Oui,Solo,9,Agence,Français,6
+52227638,4.1,83,Oui,Non,Famille,3,Agence,Chinois,1
+342481c3,4.2,65,Oui,Non,Événement,10,En ligne,Américain,1
+62e94fb9,4.7,101,Oui,Non,Tourisme,3,Agence,Italien,14
+56b0eb01,3.3,30,Oui,Oui,Famille,2,En ligne,Américain,2
+e1bb9dae,3.0,146,Oui,Oui,Événement,2,En ligne,Français,7
+3b88b528,3.3,96,Oui,Non,Événement,9,Agence,Italien,14
+3af0d4e0,3.9,33,Oui,Non,Événement,5,Agence,Espagnol,6
+186457fb,4.7,65,Oui,Non,Tourisme,9,Agence,Italien,13
+b6a56aa0,4.1,150,Oui,Non,Tourisme,4,Agence,Chinois,1
+b5d5aacf,3.6,41,Oui,Non,Affaires,1,Agence,Espagnol,14
+c9bb8c3d,4.5,59,Oui,Non,Solo,5,Agence,Français,7
+2ea2d65c,3.8,129,Oui,Non,Famille,5,En ligne,Allemand,8
+9b643bb8,3.8,50,Oui,Non,Événement,1,Agence,Allemand,4
+3e0cfd01,4.3,101,Oui,Non,Solo,9,Agence,Américain,3
+fa54b32a,2.9,140,Oui,Oui,Famille,6,En ligne,Allemand,6
+4e10f3e6,3.6,27,Oui,Non,Événement,3,Agence,Espagnol,15
+9fc49f05,4.0,51,Oui,Non,Affaires,1,Agence,Espagnol,10
+54d8e3fa,3.7,79,Oui,Non,Famille,3,En ligne,Allemand,7
+0d1fea26,3.8,73,Oui,Non,Événement,7,En ligne,Français,8
+9215b2cd,3.7,54,Oui,Non,Tourisme,9,Agence,Espagnol,11
+8707765a,3.8,61,Oui,Non,Famille,1,En ligne,Espagnol,11
+91bb629d,4.8,111,Oui,Non,Tourisme,14,Agence,Français,3
+0ee4a01b,3.5,102,Oui,Oui,Événement,7,Agence,Français,3
+a618f953,3.7,107,Oui,Non,Solo,10,Agence,Italien,15
+01c71bdb,2.9,135,Non,Oui,Événement,9,En ligne,Américain,1
+fb1f93dd,2.7,51,Oui,Oui,Famille,8,En ligne,Français,3
+f5e273d3,3.2,116,Oui,Oui,Famille,4,En ligne,Allemand,6
+8642154e,3.3,113,Oui,Non,Famille,8,En ligne,Espagnol,10
+dc35c6dd,2.9,88,Oui,Oui,Solo,9,Agence,Espagnol,10
+8e817df5,3.4,117,Oui,Oui,Événement,10,Agence,Français,2
+833d03bd,3.3,43,Oui,Non,Événement,3,Agence,Espagnol,10
+a94c4682,2.8,55,Oui,Oui,Affaires,2,En ligne,Espagnol,7
+b4a9ab2a,4.1,118,Oui,Non,Solo,5,Agence,Allemand,5
+b3267b59,4.8,135,Oui,Non,Tourisme,6,En ligne,Américain,2
+7da00770,4.4,136,Oui,Non,Famille,10,Agence,Français,2
+5f0a6e70,3.1,66,Oui,Oui,Famille,7,Agence,Chinois,1
+76a38204,3.9,59,Oui,Oui,Tourisme,15,Agence,Américain,0
+2b679dc4,4.9,130,Oui,Non,Tourisme,6,En ligne,Français,2
+8c3fce57,3.9,58,Oui,Non,Tourisme,7,En ligne,Allemand,3
+f8182e80,3.9,20,Oui,Non,Affaires,3,En ligne,Allemand,4
+24cf1e7c,4.2,97,Oui,Non,Événement,10,Agence,Allemand,2
+723afa97,4.2,136,Oui,Non,Solo,4,Agence,Américain,2
+965a579d,2.1,74,Non,Oui,Affaires,1,Agence,Allemand,5
+b5627daf,3.4,150,Oui,Oui,Famille,8,En ligne,Américain,0
+377786ca,3.1,133,Oui,Oui,Famille,4,En ligne,Chinois,1
+406c5e21,4.8,102,Oui,Non,Tourisme,6,En ligne,Américain,1
+aa70af4e,4.7,62,Oui,Non,Tourisme,8,Agence,Américain,2
+013d8953,4.4,91,Oui,Non,Solo,10,En ligne,Américain,0
+aff7fe28,3.0,23,Oui,Oui,Affaires,5,En ligne,Espagnol,8
+0a8920ac,4.1,25,Oui,Non,Affaires,1,En ligne,Italien,10
+6c476fd9,4.5,77,Oui,Non,Tourisme,15,En ligne,Chinois,0
+fd43bfc7,4.5,104,Oui,Non,Tourisme,3,En ligne,Allemand,8
+4955a415,4.1,186,Oui,Non,Tourisme,15,Agence,Chinois,1
+324d4935,4.9,62,Oui,Non,Tourisme,6,Agence,Français,8
+48dae411,3.1,140,Oui,Oui,Solo,8,Agence,Américain,2
+8f940e74,3.6,124,Oui,Non,Tourisme,10,Agence,Français,8
+17609e20,3.0,57,Oui,Oui,Événement,6,En ligne,Allemand,3
+062b6a8d,3.9,112,Oui,Non,Événement,7,En ligne,Italien,12
+06b93fba,3.9,22,Oui,Non,Solo,6,En ligne,Espagnol,9
+18f3eeb2,3.7,130,Oui,Non,Tourisme,5,Agence,Français,8
+d549af39,3.6,127,Oui,Non,Événement,5,Agence,Italien,14
+c500e3be,4.2,147,Oui,Non,Tourisme,15,Agence,Italien,12
+590cc365,2.7,69,Oui,Oui,Événement,8,En ligne,Français,7
+cd26e3d4,4.5,39,Oui,Non,Famille,10,En ligne,Espagnol,15
+eab6b661,3.4,102,Oui,Oui,Événement,8,En ligne,Allemand,8
+14ff3cc4,3.5,152,Oui,Oui,Tourisme,13,Agence,Américain,3
+b9bd3628,2.1,45,Non,Oui,Affaires,1,Agence,Chinois,3
+5de7018b,2.3,60,Oui,Oui,Affaires,5,En ligne,Espagnol,7
+e2bca3b4,2.3,74,Non,Oui,Affaires,4,En ligne,Français,2
+477ad374,2.5,104,Oui,Oui,Événement,2,Agence,Italien,7
+23b2ddcc,4.0,142,Oui,Oui,Famille,3,En ligne,Américain,3
+25b54009,4.0,36,Oui,Oui,Famille,10,En ligne,Chinois,2
+e83c2df7,3.7,20,Oui,Oui,Affaires,2,Agence,Chinois,2
+ca13083d,3.9,75,Oui,Non,Événement,9,Agence,Français,5
+a2422f9b,2.9,113,Non,Oui,Événement,7,Agence,Américain,0
+56bf8053,2.7,100,Non,Oui,Solo,1,Agence,Américain,2
+f8342648,4.2,168,Oui,Non,Tourisme,4,Agence,Américain,0
+f2dda6d8,4.3,88,Oui,Non,Solo,9,Agence,Américain,2
+a4a68f1b,2.7,138,Oui,Oui,Solo,5,En ligne,Français,6
+ae55f672,4.7,197,Oui,Non,Tourisme,12,En ligne,Français,6
+37d7f291,2.7,57,Oui,Oui,Solo,5,Agence,Français,7
+59b40bff,4.3,100,Oui,Non,Tourisme,11,Agence,Américain,1
+5085bfd0,4.0,24,Oui,Oui,Affaires,5,En ligne,Américain,0
+9f854f22,3.8,91,Oui,Non,Famille,1,En ligne,Espagnol,12
+99b6c8c9,2.7,97,Oui,Oui,Solo,4,Agence,Espagnol,14
+51284663,3.5,95,Oui,Oui,Tourisme,11,Agence,Américain,1
+53fdc2f6,3.0,66,Oui,Oui,Famille,7,En ligne,Allemand,7
+42346e4a,4.3,122,Oui,Non,Solo,8,En ligne,Allemand,5
+240f75ed,2.8,125,Oui,Oui,Famille,1,Agence,Espagnol,10
+30f568df,3.0,50,Oui,Oui,Solo,3,En ligne,Italien,5
+a9bc665a,2.6,22,Oui,Oui,Solo,1,Agence,Italien,12
+1e65bdd5,3.7,181,Oui,Non,Tourisme,6,En ligne,Allemand,4
+a7597deb,2.8,76,Non,Oui,Solo,5,Agence,Américain,2
+2ab30689,4.9,134,Oui,Non,Tourisme,6,En ligne,Italien,14
+f9ac9d27,3.5,148,Oui,Non,Famille,3,Agence,Espagnol,13
+c7f593c6,4.5,52,Oui,Non,Famille,1,Agence,Italien,6
+705523e8,2.5,70,Non,Oui,Affaires,4,Agence,Français,3
+7c0a4c26,4.6,162,Oui,Non,Tourisme,14,Agence,Français,8
+a65eafb7,4.0,71,Oui,Non,Événement,3,Agence,Français,2
+985d5a2d,4.0,20,Oui,Non,Solo,1,En ligne,Espagnol,11
+0d980d9d,3.3,131,Oui,Oui,Solo,7,En ligne,Français,3
+05fdcd74,2.6,86,Oui,Oui,Événement,6,En ligne,Allemand,4
+71555207,2.5,17,Oui,Oui,Affaires,3,Agence,Italien,10
+8550cd75,4.2,166,Oui,Non,Tourisme,14,Agence,Allemand,6
+19103d3c,4.0,26,Oui,Oui,Famille,10,En ligne,Américain,0
+20fdb87a,2.9,20,Oui,Oui,Famille,7,Agence,Allemand,8
+08e915dd,3.9,171,Oui,Non,Tourisme,6,Agence,Italien,14
+63ce0ce2,4.2,28,Oui,Non,Affaires,4,En ligne,Espagnol,6
+7215d362,2.6,46,Non,Oui,Affaires,1,Agence,Chinois,3
+6afcd731,2.4,24,Non,Oui,Affaires,5,Agence,Américain,2
+e7004c50,3.5,87,Oui,Oui,Tourisme,5,En ligne,Allemand,3
+659849f5,2.9,68,Non,Oui,Affaires,2,Agence,Américain,2
+73474a22,4.6,137,Oui,Non,Tourisme,9,En ligne,Américain,0
+3e1bc073,3.3,20,Oui,Oui,Affaires,3,En ligne,Français,8
+39d0fd95,3.3,97,Oui,Oui,Solo,1,En ligne,Américain,0
+70d9ed6f,4.5,133,Oui,Non,Solo,3,Agence,Chinois,1
+e14b601d,3.7,25,Oui,Oui,Solo,1,En ligne,Chinois,2
+50344131,3.7,121,Oui,Oui,Tourisme,5,En ligne,Chinois,1
+aec854d9,4.3,91,Oui,Non,Famille,7,Agence,Américain,2
+1c9158ce,4.8,177,Oui,Non,Tourisme,9,En ligne,Allemand,5
+63de392b,3.4,90,Oui,Oui,Solo,2,Agence,Américain,3
+43faec2e,3.9,131,Oui,Non,Famille,4,Agence,Français,6
+515512f8,2.7,112,Oui,Oui,Solo,7,En ligne,Italien,14
+4d9624a4,4.1,54,Oui,Non,Famille,5,Agence,Allemand,3
+d00054da,2.6,136,Oui,Oui,Solo,4,Agence,Français,4
+153a8913,3.9,133,Oui,Oui,Solo,9,En ligne,Chinois,0
+c1a9a93c,3.3,80,Oui,Oui,Affaires,5,Agence,Américain,2
+254292f4,3.7,60,Oui,Non,Famille,5,Agence,Français,4
+bd3fa763,3.3,88,Oui,Non,Solo,4,Agence,Italien,7
+79730c08,4.0,143,Oui,Non,Tourisme,3,En ligne,Français,6
+ac5abf9d,3.5,117,Oui,Oui,Famille,2,En ligne,Chinois,3
+c61d4272,4.4,34,Oui,Non,Solo,9,En ligne,Chinois,3
+e652720c,3.6,29,Oui,Non,Famille,7,Agence,Allemand,7
+acc8a25e,4.5,37,Oui,Non,Événement,1,En ligne,Français,6
+f583155e,4.0,37,Oui,Non,Affaires,3,Agence,Italien,9
+afe22556,2.6,56,Oui,Oui,Affaires,3,En ligne,Allemand,2
+e9c1f188,2.9,48,Oui,Oui,Événement,3,En ligne,Italien,7
+23268129,3.9,111,Oui,Oui,Tourisme,9,En ligne,Américain,2
+75bffa11,2.7,97,Oui,Oui,Solo,8,Agence,Allemand,8
+6a30fd32,4.4,61,Oui,Non,Famille,10,Agence,Italien,5
+5be66d27,3.0,73,Oui,Oui,Affaires,5,En ligne,Allemand,2
+e2b5a2a6,3.2,27,Oui,Oui,Solo,2,En ligne,Allemand,4
+93e2c9ab,3.0,69,Oui,Oui,Solo,9,En ligne,Espagnol,14
+932eb989,3.3,53,Oui,Oui,Famille,1,Agence,Français,3
+926b4045,2.1,52,Non,Oui,Affaires,2,Agence,Américain,3
+6734fe3b,3.6,107,Oui,Non,Solo,3,Agence,Italien,5
+7650fc7f,3.4,49,Oui,Oui,Solo,7,Agence,Américain,3
+dc2e9370,2.8,148,Oui,Oui,Événement,2,Agence,Italien,13
+e6908c79,3.5,116,Oui,Non,Tourisme,14,En ligne,Espagnol,15
+5260b304,2.6,47,Non,Oui,Événement,6,En ligne,Américain,2
+8fed4d31,4.3,162,Oui,Non,Tourisme,15,Agence,Français,3
+25855bbe,3.5,94,Oui,Non,Événement,9,Agence,Espagnol,6
+df9bad43,2.8,65,Oui,Oui,Événement,10,En ligne,Italien,11
+e3e4d7ec,4.2,33,Oui,Non,Solo,2,En ligne,Italien,13
+49a73bd3,4.4,111,Oui,Non,Solo,4,En ligne,Espagnol,15
+b05a2f9d,3.6,76,Oui,Non,Affaires,4,En ligne,Allemand,5
+cc5c3a5b,3.7,148,Oui,Oui,Tourisme,15,Agence,Américain,1
+bc01da53,4.7,185,Oui,Non,Tourisme,3,Agence,Chinois,0
+c0da9fb5,3.9,51,Oui,Non,Solo,6,En ligne,Allemand,8
+2a86dfcd,3.0,56,Oui,Oui,Solo,4,Agence,Espagnol,6
+cea61bcb,2.6,91,Oui,Oui,Solo,8,En ligne,Italien,9
+8bbe02d8,3.3,91,Oui,Oui,Événement,5,En ligne,Allemand,5
+641b2fbf,3.0,38,Oui,Oui,Affaires,5,En ligne,Allemand,2
+e9c1220d,4.4,54,Oui,Non,Événement,7,Agence,Espagnol,6
+b98e7686,4.0,152,Oui,Oui,Tourisme,10,En ligne,Chinois,2
+cb33df38,3.8,11,Oui,Non,Affaires,5,En ligne,Italien,10
+c60e0e93,4.0,92,Oui,Non,Solo,4,Agence,Allemand,7
+f1afe89c,4.0,118,Oui,Non,Événement,9,Agence,Français,7
+27004f74,4.9,51,Oui,Non,Tourisme,7,Agence,Français,2
+3ff37d8d,4.4,97,Oui,Non,Solo,8,En ligne,Chinois,1
+4ac5ca72,3.1,10,Oui,Oui,Affaires,3,Agence,Américain,0
+ba143334,2.3,54,Non,Oui,Affaires,3,En ligne,Allemand,5
+cda9accf,4.6,81,Oui,Non,Tourisme,11,En ligne,Français,3
+15cb71a4,4.0,147,Oui,Oui,Solo,2,Agence,Chinois,3
+3c23b154,3.1,42,Oui,Oui,Affaires,5,En ligne,Français,6
+6ced1775,4.4,89,Oui,Non,Tourisme,4,En ligne,Allemand,2
+a4fdefd9,3.1,128,Oui,Non,Solo,9,En ligne,Espagnol,6
+2dbe3c21,3.6,134,Oui,Oui,Tourisme,12,En ligne,Chinois,0
+d52101dc,4.1,139,Oui,Non,Solo,5,Agence,Allemand,8
+f869b2a5,3.6,33,Oui,Oui,Solo,4,En ligne,Chinois,2
+a8a13bbf,2.6,61,Oui,Oui,Affaires,3,Agence,Français,8
+80b54987,2.2,51,Non,Oui,Affaires,1,Agence,Allemand,4
+a1e54b28,2.6,49,Oui,Oui,Solo,1,Agence,Espagnol,15
+5774b165,3.5,25,Oui,Oui,Événement,1,Agence,Américain,0
+96c47747,4.4,108,Oui,Non,Tourisme,8,En ligne,Français,8
+887cedb1,3.1,65,Oui,Oui,Affaires,1,En ligne,Américain,3
+0d70f170,3.6,74,Oui,Non,Événement,7,En ligne,Français,4
+e0b221da,3.6,139,Oui,Oui,Solo,10,Agence,Américain,0
+eee8b70e,3.1,30,Oui,Oui,Affaires,2,En ligne,Français,4
+7dfc188d,3.6,41,Oui,Non,Famille,7,Agence,Allemand,7
+8a2f6c60,4.3,130,Oui,Non,Tourisme,5,Agence,Français,6
+d3de00d8,3.6,144,Oui,Non,Tourisme,15,En ligne,Français,4
+f18c7e7f,3.8,135,Oui,Non,Famille,10,En ligne,Espagnol,7
+111c3add,3.3,69,Oui,Non,Famille,3,Agence,Espagnol,8
+fc104ff2,4.1,184,Oui,Non,Tourisme,12,Agence,Français,2
+02357002,4.4,31,Oui,Non,Solo,6,En ligne,Allemand,4
